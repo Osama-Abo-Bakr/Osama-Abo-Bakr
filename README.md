@@ -5,7 +5,7 @@
 I'm passionate about Data science, Machine Learning, with a focus on Machine Learning, Deep Learning, Computer Vision, Problem Solving, AI. I love building AI System.
 
 - 🌍 Based in Egypt
-- 💻 Currently working on Freelancer In Upwork
+- 💻 Currently working as Freelancer In Upwork
 - 🎓 Studied In Faculty Of Artificial Intelligence
 - 🌱 Learning ML, DL, Computer Vision and NLP
 - ✨ Interests include Gym, Camping.
