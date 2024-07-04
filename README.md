@@ -1,6 +1,47 @@
-## Hi there 👋
-- 👋 Hi, I’m @Osama-Abo-bakr-khalifa
-- 👀 I’m interested in Machine Learning , Deep Learning, Ai
-- 🌱 I’m currently learning Comouter Vision And Reinforcment Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linked In https://www.linkedin.com/in/osama-abo-bakr-293614259 , Or Whatsapp +201274011748
+# 👋 Hi there, I'm Osama Abo-Bakr Khalifa
+
+### About Me
+
+I'm passionate about Data science, Machine Learning, with a focus on Machine Learning, Deep Learning, Computer Vision, Problem Solving, AI. I love building AI System.
+
+- 🌍 Based in Egypt
+- 💻 Currently working on Freelancer In Upwork
+- 🎓 Studied In Faculty Of Artificial Intelligence
+- 🌱 Learning ML, DL, Computer Vision and NLP
+- ✨ Interests include Gym, Camping.
+
+### 🛠️ Technologies & Tools
+
+I work with a variety of technologies and tools:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6666?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-00B4D9?style=flat&logo=seaborn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD95D?style=flat&logo=huggingface&logoColor=black)
+
+
+
+### 🏆 Achievements
+
+<!-- Use GitHub Shield Badges or custom images -->
+
+![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat&logo=kaggle&logoColor=white) Expert in Kaggle  
+![Python](https://img.shields.io/badge/Python-Gold-FFD700?style=flat&logo=python&logoColor=white) Gold Badge in Python on HackerRank  
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Gold-FFD700?style=flat&logo=codeforces&logoColor=white) Gold Badge in Problem Solving on HackerRank  
+![C++](https://img.shields.io/badge/C++-Gold-FFD700?style=flat&logo=cplusplus&logoColor=white) Gold Badge in C++ on HackerRank
+
+### 📫 How to Reach Me
+
+- **Email:** [your-email@example.com](mailto:osamaoabobakr12@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/osama-abo-bakr-293614259)
+- **Website:** [Your Website](https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky)
+
+---
+
+Feel free to check out my repositories and contribute or reach out for collaboration!
