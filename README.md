@@ -29,11 +29,11 @@ I work with a variety of technologies and tools:
 
 <!-- Use GitHub Shield Badges or custom images -->
 
-![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat&logo=kaggle&logoColor=white) Expert in Kaggle  
-![Python](https://img.shields.io/badge/Python-Gold-FFD700?style=flat&logo=python&logoColor=white) Gold Badge in Python on HackerRank  
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Gold-FFD700?style=flat&logo=codeforces&logoColor=white) Gold Badge in Problem Solving on HackerRank  
-![C++](https://img.shields.io/badge/C++-Gold-FFD700?style=flat&logo=cplusplus&logoColor=white) Gold Badge in C++ on HackerRank  
-![LeetCode](https://img.shields.io/badge/LeetCode-Top%20Contributor-FFA116?style=flat&logo=leetcode&logoColor=white) LeetCode Top Contributor
+![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat&logo=kaggle&logoColor=white)   
+![Python](https://img.shields.io/badge/Python-Gold-FFD700?style=flat&logo=python&logoColor=white) 
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Gold-FFD700?style=flat&logo=codeforces&logoColor=white)   
+![C++](https://img.shields.io/badge/C++-Gold-FFD700?style=flat&logo=cplusplus&logoColor=white)  
+![LeetCode](https://img.shields.io/badge/LeetCode-Top%20Contributor-FFA116?style=flat&logo=leetcode&logoColor=white) 
 
 #### HackerRank
 - 1st Python in Menoufia University
