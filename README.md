@@ -20,11 +20,9 @@ I work with a variety of technologies and tools:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6666?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-00B4D9?style=flat&logo=seaborn&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD95D?style=flat&logo=huggingface&logoColor=black)
-
 
 
 ### 🏆 Achievements
@@ -33,14 +31,22 @@ I work with a variety of technologies and tools:
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat&logo=kaggle&logoColor=white) Expert in Kaggle  
 ![Python](https://img.shields.io/badge/Python-Gold-FFD700?style=flat&logo=python&logoColor=white) Gold Badge in Python on HackerRank  
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Gold-FFD700?style=flat&logo=codeforces&logoColor=white) Gold Badge in Problem Solving on HackerRank 
-![C++](https://img.shields.io/badge/C++-Gold-FFD700?style=flat&logo=cplusplus&logoColor=white) Gold Badge in C++ on HackerRank
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Gold-FFD700?style=flat&logo=codeforces&logoColor=white) Gold Badge in Problem Solving on HackerRank  
+![C++](https://img.shields.io/badge/C++-Gold-FFD700?style=flat&logo=cplusplus&logoColor=white) Gold Badge in C++ on HackerRank  
+![LeetCode](https://img.shields.io/badge/LeetCode-Top%20Contributor-FFA116?style=flat&logo=leetcode&logoColor=white) LeetCode Top Contributor
+
+#### HackerRank
+- 1st Python in Menoufia University
+- 1st Data Structures in Menoufia University
+- 2nd Problem Solving in Menoufia University
+- 98th Python in Egypt
 
 ### 📫 How to Reach Me
 
-- **Email:** osamaoabobakr12@gmail.com
-- **LinkedIn:** https://linkedin.com/in/osama-abo-bakr-293614259
-- **Website:** https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky
+- **Email:** (osamaoabobakr12@gmail.com)
+- **LinkedIn:** (https://linkedin.com/in/osama-abo-bakr-293614259)
+- **Website:** (https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky)
+- **HackerRank:** (https://www.hackerrank.com/profile/osamaoabobakr12)
 
 ---
 
