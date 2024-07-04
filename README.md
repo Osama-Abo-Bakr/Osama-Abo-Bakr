@@ -38,9 +38,9 @@ I work with a variety of technologies and tools:
 
 ### 📫 How to Reach Me
 
-- **Email:** [your-email@example.com](mailto:osamaoabobakr12@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/osama-abo-bakr-293614259)
-- **Website:** [Your Website](https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky)
+- **Email:** (mailto:osamaoabobakr12@gmail.com)
+- **LinkedIn:** (https://linkedin.com/in/osama-abo-bakr-293614259)
+- **Website:** (https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky)
 
 ---
 
