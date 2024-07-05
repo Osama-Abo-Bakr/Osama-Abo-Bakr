@@ -43,10 +43,11 @@ I work with a variety of technologies and tools:
 
 ### 📫 How to Reach Me
 
-- **Email:** (osamaoabobakr12@gmail.com)
-- **LinkedIn:** (https://linkedin.com/in/osama-abo-bakr-293614259)
-- **Website:** (https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky)
-- **HackerRank:** (https://www.hackerrank.com/profile/osamaoabobakr12)
+- **Email:** [Gmail](osamaoabobakr12@gmail.com)
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/osama-abo-bakr-293614259)
+- **Website:** [My-Website](https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky)
+- **HackerRank:** [HackerRank](https://www.hackerrank.com/profile/osamaoabobakr12)
+- **Kaggle:** [Kaggle](https://www.kaggle.com/osamaabobakr)
 
 ---
 
