@@ -7,7 +7,7 @@ I'm passionate about Data science, Machine Learning, with a focus on Machine Lea
 - 🌍 Based in Egypt
 - 💻 Currently working as Freelancer In Upwork
 - 🎓 Studied In Faculty Of Artificial Intelligence
-- 🌱 Learning ML, DL, Computer Vision and NLP
+- 🌱 Learning ML, DL, Computer Vision and NLP, LLMs, RAG, LangChain, LLama-index 
 - ✨ Interests include Gym, Camping.
 
 ### 🛠️ Technologies & Tools
