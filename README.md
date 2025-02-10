@@ -2,12 +2,12 @@
 
 ### About Me
 
-I'm passionate about Data science, Machine Learning, with a focus on Machine Learning, Deep Learning, Computer Vision, Problem Solving, AI. I love building AI System.
+I'm passionate about Data science, Machine Learning, with a focus on Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, RAG, AI-Agent, Problem Solving, AI. I love building AI System.
 
 - 🌍 Based in Egypt
 - 💻 Currently working as Freelancer In Upwork
 - 🎓 Studied In Faculty Of Artificial Intelligence
-- 🌱 Learning ML, DL, Computer Vision and NLP, LLMs, RAG, LangChain, LLama-index 
+- 🌱 Learning ML, DL, Computer Vision and NLP, LLMs, RAG, LangChain, LLama-index, AI-Agent.
 - ✨ Interests include Gym, Camping.
 
 ### 🛠️ Technologies & Tools
@@ -48,7 +48,6 @@ I work with a variety of technologies and tools:
 - **Website:** [My-Website](https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky)
 - **HackerRank:** [HackerRank](https://www.hackerrank.com/profile/osamaoabobakr12)
 - **Kaggle:** [Kaggle](https://www.kaggle.com/osamaabobakr)
+- **Upwork** [Upwork](https://www.upwork.com/freelancers/~010f16d64eed3e8654)
 
 ---
-
-Feel free to check out my repositories and contribute or reach out for collaboration!
