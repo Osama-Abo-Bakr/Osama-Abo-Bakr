@@ -45,7 +45,6 @@ I work with a variety of technologies and tools:
 
 - **Email:** [Gmail](osamaoabobakr12@gmail.com)
 - **LinkedIn:** [LinkedIn](https://linkedin.com/in/osama-abo-bakr-293614259)
-- **Website:** [My-Website](https://gamma.app/docs/Machine-Learning-Engineer-nnmytsca6j5o8af?mode=doc#card-h5fdycis2q8vyky)
 - **HackerRank:** [HackerRank](https://www.hackerrank.com/profile/osamaoabobakr12)
 - **Kaggle:** [Kaggle](https://www.kaggle.com/osamaabobakr)
 - **Upwork** [Upwork](https://www.upwork.com/freelancers/~010f16d64eed3e8654)
