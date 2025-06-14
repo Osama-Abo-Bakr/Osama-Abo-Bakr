@@ -48,5 +48,5 @@ I work with a variety of technologies and tools:
 - **HackerRank:** [HackerRank](https://www.hackerrank.com/profile/osamaoabobakr12)
 - **Kaggle:** [Kaggle](https://www.kaggle.com/osamaabobakr)
 - **Upwork** [Upwork](https://www.upwork.com/freelancers/~010f16d64eed3e8654)
-
+- **Portfolio** [Portfolio](https://osama-abo-bakr.vercel.app/)
 ---
