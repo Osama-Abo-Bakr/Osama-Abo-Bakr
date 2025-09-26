@@ -1,14 +1,29 @@
 # 👋 Hi there, I'm Osama Abo-Bakr Khalifa
 
-### About Me
 
-I'm passionate about Data science, Machine Learning, with a focus on Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, RAG, AI-Agent, Problem Solving, AI. I love building AI System.
+## 👋 About Me
 
-- 🌍 Based in Egypt
-- 💻 Currently working as Freelancer In Upwork
-- 🎓 Studied In Faculty Of Artificial Intelligence
-- 🌱 Learning ML, DL, Computer Vision and NLP, LLMs, RAG, LangChain, LLama-index, AI-Agent.
-- ✨ Interests include Gym, Camping.
+I’m a passionate **AI Engineer & Data Scientist** with expertise in **Machine Learning, Deep Learning, Computer Vision, NLP, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents**. I love tackling complex problems and transforming ideas into intelligent, production-ready systems.
+
+* 🌍 Based in **Egypt**
+* 💻 Working as a **Freelancer on Upwork**, building AI solutions for clients worldwide
+* 🎓 Graduate of the **Faculty of Artificial Intelligence**
+* 🌱 Currently exploring **LLMs, RAG pipelines, LangChain, LlamaIndex, and AI Agent frameworks**
+* ✨ Outside of tech, I enjoy **gym training, camping, and continuous self-growth**
+
+---
+
+## 🚀 Featured Projects
+
+* [**InstaMasr**](https://github.com/Osama-Abo-Bakr/instamasr) – An AI-powered assistant for managing Egyptian bureaucracy, integrating **AI workflows, automation, and messaging platforms**.
+* [**ATS NLP Project**](https://github.com/Osama-Abo-Bakr/ATS--NLP--project) – A Natural Language Processing system that **analyzes and ranks resumes**, streamlining recruitment.
+* [**SaaS RAG Chatbot**](https://github.com/Osama-Abo-Bakr/SaaS-RAG-chatbot) – A **retrieval-augmented chatbot platform**, enabling businesses to upload documents, manage chat history, and retrieve knowledge seamlessly.
+
+---
+
+⚡ *Always curious. Always building. Always learning.*
+
+---
 
 ### 🛠️ Technologies & Tools
 
