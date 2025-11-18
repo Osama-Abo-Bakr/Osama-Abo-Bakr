@@ -2,9 +2,9 @@
   
 # 👋 Hi, I'm **Osama Abo-Bakr Khalifa**
 
-### Senior AI Engineer | ML/DL Specialist | LLM & RAG Expert | Agentic AI
+### CTO @ NexAI | Senior AI Engineer | LLM & RAG Specialist | Agentic AI Expert
 
-*Building intelligent systems that solve real-world problems*
+*Building intelligent systems that transform businesses*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-abo-bakr-293614259)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010f16d64eed3e8654)
@@ -15,10 +15,13 @@
 
 ---
 
-Senior AI Engineer specializing in **Machine Learning, Deep Learning, and Production AI Systems**. I build scalable **LLM applications, RAG pipelines, and intelligent agents** for global clients. Graduate of the Faculty of Artificial Intelligence 🇪🇬
+**Chief Technology Officer at NexAI (Riyadh, KSA)** | Leading AI innovation and engineering teams to build production-ready intelligent systems. Specialized in **LLMs, RAG architectures, Multi-Agent Systems, Computer Vision, and NLP**.
 
-🎯 **Focus:** LLMs | RAG Architectures | Multi-Agent Systems | Computer Vision | NLP  
-💼 **Currently:** Delivering AI solutions on Upwork | Building production-ready systems | CTO in NexAI
+**Top-Rated Upwork Freelancer** | **Kaggle Expert** | Graduate of Faculty of Artificial Intelligence 🇪🇬
+
+🎯 **Expertise:** Enterprise AI Solutions | LLM Fine-tuning | RAG Pipelines | Multi-Agent Systems | MLOps  
+💼 **Currently:** Building next-gen AI products at NexAI | Delivering scalable AI solutions globally  
+🏆 **Recognition:** Top 98th Python Developer in Egypt | #1 Data Structures & Python at University
 
 ---
 
@@ -42,17 +45,42 @@ Senior AI Engineer specializing in **Machine Learning, Deep Learning, and Produc
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-### Data & Deployment
+### Deployment & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Vector Databases
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
@@ -66,12 +94,27 @@ Senior AI Engineer specializing in **Machine Learning, Deep Learning, and Produc
 
 | Platform | Achievement | Rank |
 |----------|-------------|------|
-| ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) | **Expert** | Active Competitions |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Python** | 🥇 1st - Menoufia University / 🔝 98th - Egypt |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Data Structures** | 🥇 1st - Menoufia University |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Problem Solving** | 🥈 2nd - Menoufia University |
+| ![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white) | **Top-Rated Freelancer** | 100% Job Success Score |
+| ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) | **Expert** | Active Competitions & Datasets |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Python** | 🔝 98th in Egypt / 🥇 1st at Menoufia University |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Data Structures** | 🥇 1st at Menoufia University |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Algorithms** | 🥈 2nd at Menoufia University |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **C++** | 🥈 2nd at Menoufia University |
 
 </div>
+
+---
+
+## 💼 Professional Experience
+
+**🚀 Chief Technology Officer** @ NexAI | *Riyadh, Saudi Arabia*  
+Leading AI engineering teams to deliver enterprise-grade intelligent systems
+
+**💻 Top-Rated AI Engineer** @ Upwork | *Global Clients*  
+Building custom LLM applications, RAG systems, and AI automation solutions
+
+**🏦 AI Engineering Intern** @ Commercial International Bank (CIB)  
+Developed AI agents, RAG pipelines, and vector search systems for banking operations
 
 ---
 
@@ -88,13 +131,13 @@ Senior AI Engineer specializing in **Machine Learning, Deep Learning, and Produc
 
 <div align="center">
 
-**Open for:** Freelance Projects | Consulting | Collaboration
+**Available for:** Technical Consulting | AI Architecture | Enterprise Solutions | Speaking Engagements
 
 📧 [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/osama-abo-bakr-293614259) | 🌐 [Portfolio](https://osama-abo-bakr.vercel.app/)
 
 ---
 
-*"Building the future with AI, one model at a time."*
+*"Turning cutting-edge AI research into production-ready solutions."*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Osama-Abo-Bakr.Osama-Abo-Bakr)
 
