@@ -15,70 +15,10 @@
 
 ---
 
-## 🚀 About Me
+Senior AI Engineer specializing in **Machine Learning, Deep Learning, and Production AI Systems**. I build scalable **LLM applications, RAG pipelines, and intelligent agents** for global clients. Graduate of the Faculty of Artificial Intelligence 🇪🇬
 
-Senior AI Engineer with deep expertise in **Machine Learning, Deep Learning, and Production AI Systems**. I specialize in building **scalable LLM applications, RAG pipelines, and intelligent agents** that deliver measurable business value.
-
-### 🎯 What I Do
-
-- 🤖 **AI Engineering:** Designing and deploying production-ready ML/DL systems
-- 🧠 **LLM Development:** Building advanced RAG pipelines, fine-tuning models, and creating intelligent agents
-- 🔬 **Research & Innovation:** Exploring cutting-edge AI techniques and implementing state-of-the-art solutions
-- 🌐 **Global Impact:** Delivering AI solutions to international clients through freelancing platforms
-
-### 💡 Core Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-**Machine Learning & Deep Learning**
-- Computer Vision & Image Processing
-- Natural Language Processing
-- Time Series Analysis
-- Model Optimization & Deployment
-
-</td>
-<td width="50%">
-
-**Advanced AI Systems**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
-- LangChain & LlamaIndex Frameworks
-
-</td>
-</tr>
-</table>
-
-🎓 **Background:** Faculty of Artificial Intelligence Graduate  
-📍 **Location:** Egypt 🇪🇬  
-🚀 **Current Focus:** Production MLOps, Advanced RAG Architectures & AI Automation
-
----
-
-## 💼 Featured Projects
-
-### 🤖 [InstaMasr](https://github.com/Osama-Abo-Bakr/instamasr)
-**AI-Powered Bureaucracy Assistant for Egypt**
-- Integrated multi-channel workflows with AI automation
-- Built intelligent chatbot with context-aware responses
-- Streamlined government service navigation for Egyptian citizens
-- **Tech:** LangChain, RAG, Multi-agent orchestration
-
-### 📄 [ATS NLP System](https://github.com/Osama-Abo-Bakr/ATS--NLP--project)
-**Intelligent Resume Analysis & Ranking Platform**
-- Automated resume screening with 95%+ accuracy
-- NLP-driven candidate matching and ranking
-- Reduced recruitment time by 60%
-- **Tech:** NLP, BERT, Custom ML pipelines
-
-### 💬 [SaaS RAG Chatbot Platform](https://github.com/Osama-Abo-Bakr/SaaS-RAG-chatbot)
-**Enterprise-Grade Knowledge Retrieval System**
-- Multi-document RAG with conversation memory
-- Scalable SaaS architecture with user management
-- Real-time document processing and embedding
-- **Tech:** RAG, Vector DB, FastAPI, LangChain
+🎯 **Focus:** LLMs | RAG Architectures | Multi-Agent Systems | Computer Vision | NLP  
+💼 **Currently:** Delivering AI solutions on Upwork | Building production-ready systems
 
 ---
 
@@ -107,38 +47,12 @@ Senior AI Engineer with deep expertise in **Machine Learning, Deep Learning, and
 </td>
 <td valign="top" width="33%">
 
-### Data & Analytics
+### Data & Deployment
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### Deployment & MLOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### Vector Databases & RAG
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </td>
 </tr>
@@ -150,13 +64,12 @@ Senior AI Engineer with deep expertise in **Machine Learning, Deep Learning, and
 
 <div align="center">
 
-| Platform | Achievement | Rank/Badge |
-|----------|-------------|------------|
-| ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) | **Expert** | Active Competitor |
+| Platform | Achievement | Rank |
+|----------|-------------|------|
+| ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) | **Expert** | Active Competitions |
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Python** | 🥇 1st - Menoufia University / 🔝 98th - Egypt |
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Data Structures** | 🥇 1st - Menoufia University |
 | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Problem Solving** | 🥈 2nd - Menoufia University |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | **Top Contributor** | Active Problem Solver |
 
 </div>
 
@@ -173,21 +86,15 @@ Senior AI Engineer with deep expertise in **Machine Learning, Deep Learning, and
 
 ## 📫 Let's Connect
 
-I'm always interested in collaborating on innovative AI projects or discussing cutting-edge ML techniques.
-
 <div align="center">
 
-📧 **Email:** [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com)  
-💼 **Available for:** Freelance Projects | Consulting | Collaboration  
-🌍 **Working with:** Global clients across various industries
+**Open for:** Freelance Projects | Consulting | Collaboration
 
-</div>
+📧 [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/osama-abo-bakr-293614259) | 🌐 [Portfolio](https://osama-abo-bakr.vercel.app/)
 
 ---
 
-<div align="center">
-
-*"The best way to predict the future is to build it with AI."*
+*"Building the future with AI, one model at a time."*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Osama-Abo-Bakr.Osama-Abo-Bakr)
 
