@@ -128,6 +128,26 @@ Developed AI agents, RAG pipelines, and vector search systems for banking operat
 
 ---
 
+## 🚀 Featured Projects
+
+### 🤖 [InstaMasr](https://github.com/Osama-Abo-Bakr/instamasr)
+Streamlines Egyptian government service access for citizens through AI-powered chat interface and automated form processing.  
+**Tech:** Next.js, FastAPI, LangChain, JWT Auth
+
+### 💬 [SaaS RAG Chatbot](https://github.com/Osama-Abo-Bakr/SaaS-RAG-chatbot)
+Enables organizations to build intelligent knowledge bases from documents with instant Q&A capabilities and conversation memory.  
+**Tech:** FastAPI, Weaviate, PostgreSQL, RAG, Cohere
+
+### 📈 [Financial Data Analysis - CrewAI](https://github.com/Osama-Abo-Bakr/financial-data-analysis-crewai)
+Automates financial data analysis by deploying AI agent teams that extract insights from structured and unstructured sources.  
+**Tech:** CrewAI, Multi-Agent System, Llama3.2
+
+### 📊 [Stock Market Agent](https://github.com/Osama-Abo-Bakr/Stock-Agent)
+Delivers real-time trading signals by analyzing market news sentiment and technical indicators through coordinated AI agents.  
+**Tech:** CrewAI, GPT-4, Technical Analysis, Real-time APIs
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
