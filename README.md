@@ -19,34 +19,41 @@
 
 Senior AI Engineer with deep expertise in **Machine Learning, Deep Learning, and Production AI Systems**. I specialize in building **scalable LLM applications, RAG pipelines, and intelligent agents** that deliver measurable business value.
 
-```python
-class SeniorAIEngineer:
-    def __init__(self):
-        self.name = "Osama Abo-Bakr Khalifa"
-        self.role = "Senior AI Engineer & Data Scientist"
-        self.location = "Egypt 🇪🇬"
-        self.education = "Faculty of Artificial Intelligence"
-        
-    def current_focus(self):
-        return [
-            "LLM Fine-tuning & Optimization",
-            "Advanced RAG Architectures",
-            "Multi-Agent Systems",
-            "Production ML Deployment",
-            "AI Automation & Workflows"
-        ]
-    
-    def expertise(self):
-        return {
-            "core": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
-            "advanced": ["LLMs", "RAG", "AI Agents", "LangChain", "LlamaIndex"],
-            "deployment": ["MLOps", "Scalable Systems", "API Development"]
-        }
-```
+### 🎯 What I Do
 
-🎯 **Currently:** Delivering AI solutions to global clients on **Upwork** | Building production-ready AI systems  
-💡 **Passion:** Transforming complex problems into elegant AI-powered solutions  
-🌱 **Learning:** Advanced multi-agent frameworks, distributed AI systems, and cutting-edge LLM techniques
+- 🤖 **AI Engineering:** Designing and deploying production-ready ML/DL systems
+- 🧠 **LLM Development:** Building advanced RAG pipelines, fine-tuning models, and creating intelligent agents
+- 🔬 **Research & Innovation:** Exploring cutting-edge AI techniques and implementing state-of-the-art solutions
+- 🌐 **Global Impact:** Delivering AI solutions to international clients through freelancing platforms
+
+### 💡 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+**Machine Learning & Deep Learning**
+- Computer Vision & Image Processing
+- Natural Language Processing
+- Time Series Analysis
+- Model Optimization & Deployment
+
+</td>
+<td width="50%">
+
+**Advanced AI Systems**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- LangChain & LlamaIndex Frameworks
+
+</td>
+</tr>
+</table>
+
+🎓 **Background:** Faculty of Artificial Intelligence Graduate  
+📍 **Location:** Egypt 🇪🇬  
+🚀 **Current Focus:** Production MLOps, Advanced RAG Architectures & AI Automation
 
 ---
 
