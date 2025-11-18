@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm **Osama Abo-Bakr Khalifa**
 
-### Senior AI Engineer | ML/DL Specialist | LLM & RAG Expert
+### Senior AI Engineer | ML/DL Specialist | LLM & RAG Expert | Agentic AI
 
 *Building intelligent systems that solve real-world problems*
 
@@ -18,7 +18,7 @@
 Senior AI Engineer specializing in **Machine Learning, Deep Learning, and Production AI Systems**. I build scalable **LLM applications, RAG pipelines, and intelligent agents** for global clients. Graduate of the Faculty of Artificial Intelligence 🇪🇬
 
 🎯 **Focus:** LLMs | RAG Architectures | Multi-Agent Systems | Computer Vision | NLP  
-💼 **Currently:** Delivering AI solutions on Upwork | Building production-ready systems
+💼 **Currently:** Delivering AI solutions on Upwork | Building production-ready systems | CTO in NexAI
 
 ---
 
