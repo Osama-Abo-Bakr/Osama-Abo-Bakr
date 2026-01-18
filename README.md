@@ -2,7 +2,9 @@
   
 # 👋 Hi, I'm **Osama Abo-Bakr Khalifa**
 
-### CTO @ NexAI | Senior AI Engineer | LLM & RAG Specialist | Agentic AI Expert
+*End-to-end AI Engineer specializing in production LLM systems & enterprise AI architecture*
+
+### Senior AI Engineer & AI Solution Architect @ NexAI | LLMs, RAG Systems & Multi-Agent Architectures
 
 *Building intelligent systems that transform businesses*
 
@@ -15,12 +17,14 @@
 
 ---
 
-**Chief Technology Officer at NexAI (Riyadh, KSA)** | Leading AI innovation and engineering teams to build production-ready intelligent systems. Specialized in **LLMs, RAG architectures, Multi-Agent Systems, Computer Vision, and NLP**.
+**AI Engineer & Solution Architect at NexAI (Riyadh, KSA)** | Designing and delivering production-ready AI systems, specializing in **LLMs, RAG architectures, Multi-Agent Systems, Computer Vision, and NLP**.
+
+🧠 Focused on taking AI systems from **research → prototype → production** with real business impact.
 
 **Top-Rated Upwork Freelancer** | **Kaggle Expert** | Graduate of Faculty of Artificial Intelligence 🇪🇬
 
 🎯 **Expertise:** Enterprise AI Solutions | LLM Fine-tuning | RAG Pipelines | Multi-Agent Systems | MLOps  
-💼 **Currently:** Building next-gen AI products at NexAI | Delivering scalable AI solutions globally  
+💼 **Currently:** Architecting and building next-gen AI products at NexAI | Delivering enterprise AI solutions globally
 🏆 **Recognition:** Top 98th Python Developer in Egypt | #1 Data Structures & Python at University
 
 ---
@@ -117,8 +121,9 @@
 
 ## 💼 Professional Experience
 
-**🚀 Chief Technology Officer** @ NexAI | *Riyadh, Saudi Arabia*  
-Leading AI engineering teams to deliver enterprise-grade intelligent systems
+**🚀 AI Engineer & Solution Architect** @ NexAI | *Riyadh, Saudi Arabia*  
+Architecting and implementing enterprise-grade AI systems including LLM applications, RAG pipelines, and multi-agent platforms.  
+Driving technical design decisions, system scalability, and end-to-end production deployment.
 
 **💻 Top-Rated AI Engineer** @ Upwork | *Global Clients*  
 Building custom LLM applications, RAG systems, and AI automation solutions
@@ -145,15 +150,6 @@ Automates financial data analysis by deploying AI agent teams that extract insig
 ### 📊 [Stock Market Agent](https://github.com/Osama-Abo-Bakr/Stock-Agent)
 Delivers real-time trading signals by analyzing market news sentiment and technical indicators through coordinated AI agents.  
 **Tech:** CrewAI, GPT-4, Technical Analysis, Real-time APIs
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osama-Abo-Bakr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Abo-Bakr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
 
 ---
 
