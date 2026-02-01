@@ -4,7 +4,7 @@
 
 *End-to-end AI Engineer specializing in production LLM systems & enterprise AI architecture*
 
-### Senior AI Engineer & AI Solution Architect @ NexAI | LLMs, RAG Systems & Multi-Agent Architectures
+### AI Engineer & AI Solution Architect @ NexAI | LLMs, RAG Systems & Multi-Agent Architectures
 
 *Building intelligent systems that transform businesses*
 
