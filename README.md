@@ -1,15 +1,13 @@
 <div align="center">
-  
-# 👋 Hi, I'm **Osama Abo-Bakr Khalifa**
 
-*End-to-end AI Engineer specializing in production LLM systems & enterprise AI architecture*
+# Osama Abo-Bakr Khalifa
 
-### AI Engineer & AI Solution Architect @ NexAI | LLMs, RAG Systems & Multi-Agent Architectures
+### I build AI Agents and RAG systems that work in production — not just in demos.
 
-*Building intelligent systems that transform businesses*
+*Senior AI Engineer · CTO @ NexAI (Riyadh) · Top-Rated on Upwork*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-abo-bakr-293614259)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010f16d64eed3e8654)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/osamaa305)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/osamaabobakr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://osama-abo-bakr.vercel.app/)
 
@@ -17,153 +15,101 @@
 
 ---
 
-**AI Engineer & Solution Architect at NexAI (Riyadh, KSA)** | Designing and delivering production-ready AI systems, specializing in **LLMs, RAG architectures, Multi-Agent Systems, Computer Vision, and NLP**.
+Most AI projects fail not because the model is wrong — but because they never connect to real business data or real workflows.
 
-🧠 Focused on taking AI systems from **research → prototype → production** with real business impact.
+I fix that. I specialize in **Agentic AI systems** and **RAG pipelines** that slot into how your business actually runs: agents that reason and act autonomously, knowledge bases that answer from *your* data, and automation that eliminates hours of manual work.
 
-**Top-Rated Upwork Freelancer** | **Kaggle Expert** | Graduate of Faculty of Artificial Intelligence 🇪🇬
-
-🎯 **Expertise:** Enterprise AI Solutions | LLM Fine-tuning | RAG Pipelines | Multi-Agent Systems | MLOps  
-💼 **Currently:** Architecting and building next-gen AI products at NexAI | Delivering enterprise AI solutions globally
-🏆 **Recognition:** Top 98th Python Developer in Egypt | #1 Data Structures & Python at University
+Currently leading the engineering team at **NexAI (Riyadh)** as CTO. Previously built AI systems for banking operations at **CIB (Commercial International Bank)**. Every project I take on gets the same production-grade thinking — no matter the size.
 
 ---
 
-## 🛠️ Technical Stack
+## 🎯 What I Specialize In
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### AI & ML Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### LLM & Agent Frameworks
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### Data Science & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### Vector Databases
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge&logo=weaviate&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1E0?style=for-the-badge&logo=milvus&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### Automation & Tools
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| Platform | Achievement | Rank |
-|----------|-------------|------|
-| ![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white) | **Top-Rated Freelancer** | 100% Job Success Score |
-| ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) | **Expert** | Active Competitions & Datasets |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Python** | 🔝 98th in Egypt / 🥇 1st at Menoufia University |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Data Structures** | 🥇 1st at Menoufia University |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **Algorithms** | 🥈 2nd at Menoufia University |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | **C++** | 🥈 2nd at Menoufia University |
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-**🚀 AI Engineer & Solution Architect** @ NexAI | *Riyadh, Saudi Arabia*  
-Architecting and implementing enterprise-grade AI systems including LLM applications, RAG pipelines, and multi-agent platforms.  
-Driving technical design decisions, system scalability, and end-to-end production deployment.
-
-**💻 Top-Rated AI Engineer** @ Upwork | *Global Clients*  
-Building custom LLM applications, RAG systems, and AI automation solutions
-
-**🏦 AI Engineering Intern** @ Commercial International Bank (CIB)  
-Developed AI agents, RAG pipelines, and vector search systems for banking operations
+| Area | What I Build |
+|------|-------------|
+| 🤖 **AI Agents** | Multi-agent pipelines with LangGraph, CrewAI, LangChain — agents that fetch, reason, and act in sequence |
+| 📚 **RAG Systems** | Production knowledge bases from your docs, PDFs, databases — hybrid search, memory, full-stack delivery |
+| 🏛️ **Enterprise AI Apps** | End-to-end AI platforms with auth, dashboards, real integrations — FastAPI + Next.js + PostgreSQL |
+| 🔄 **Workflow Automation** | n8n / Make pipelines connecting CRM, Slack, WhatsApp, email — zero manual intervention |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [InstaMasr](https://github.com/Osama-Abo-Bakr/instamasr)
-Streamlines Egyptian government service access for citizens through AI-powered chat interface and automated form processing.  
-**Tech:** Next.js, FastAPI, LangChain, JWT Auth
-
 ### 💬 [SaaS RAG Chatbot](https://github.com/Osama-Abo-Bakr/SaaS-RAG-chatbot)
-Enables organizations to build intelligent knowledge bases from documents with instant Q&A capabilities and conversation memory.  
-**Tech:** FastAPI, Weaviate, PostgreSQL, RAG, Cohere
+> Production RAG platform built for a SaaS client. Ingests 1,000+ documents into Weaviate, performs hybrid search, delivers contextual answers with conversation memory. Full FastAPI backend + Next.js frontend. Delivered in under 2 weeks.
 
-### 📈 [Financial Data Analysis - CrewAI](https://github.com/Osama-Abo-Bakr/financial-data-analysis-crewai)
-Automates financial data analysis by deploying AI agent teams that extract insights from structured and unstructured sources.  
-**Tech:** CrewAI, Multi-Agent System, Llama3.2
-
-### 📊 [Stock Market Agent](https://github.com/Osama-Abo-Bakr/Stock-Agent)
-Delivers real-time trading signals by analyzing market news sentiment and technical indicators through coordinated AI agents.  
-**Tech:** CrewAI, GPT-4, Technical Analysis, Real-time APIs
+`FastAPI` `Weaviate` `RAG` `Hybrid Search` `PostgreSQL` `Next.js` `Cohere`
 
 ---
 
-## 📫 Let's Connect
+### 📈 [Stock Market Analysis Agent](https://github.com/Osama-Abo-Bakr/Stock-Agent)
+> 4 specialized agents working in sequence: real-time news fetching → sentiment scoring → technical indicator analysis → trading signal generation. Built to demonstrate production-grade multi-agent architecture.
+
+`CrewAI` `GPT-4` `LangChain` `Technical Analysis` `Real-time APIs`
+
+---
+
+### 🏛️ [InstaMasr](https://github.com/Osama-Abo-Bakr/instamasr)
+> AI-powered platform built for an Egyptian startup — streamlines government service access with an AI chat assistant, intelligent form automation, Arabic RTL support, JWT auth, and dark/light theming. End-to-end architecture to production deployment.
+
+`Next.js` `FastAPI` `LangChain` `JWT` `Arabic NLP` `PostgreSQL`
+
+---
+
+### 📊 [Financial Data Analysis — CrewAI](https://github.com/Osama-Abo-Bakr/financial-data-analysis-crewai)
+> Agent team that automates financial analysis — extracts insights from structured and unstructured sources, summarizes trends, and surfaces actionable signals.
+
+`CrewAI` `Llama 3.2` `Multi-Agent` `Financial NLP`
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & LLMs:** Python · LangChain · LangGraph · LlamaIndex · CrewAI · OpenAI GPT-4 · Hugging Face · Fine-tuning (LoRA/QLoRA)
+
+**Vector DBs:** Pinecone · Weaviate · Milvus · ChromaDB · FAISS · pgvector
+
+**ML/DL:** PyTorch · TensorFlow · Scikit-learn · OpenCV · Pandas · NumPy
+
+**Web & APIs:** FastAPI · Next.js · React · TypeScript · PostgreSQL · Docker
+
+**Automation:** n8n · Make · Custom webhook integrations
+
+**Cloud:** AWS · GCP · Railway · Vercel · Docker
+
+---
+
+## 🏆 Recognition
+
+| Platform | Achievement |
+|----------|-------------|
+| Upwork | **Top-Rated** · 100% Job Success Score |
+| Kaggle | **Expert** |
+| HackerRank | **Top 98th in Egypt** (Python) · #1 at Menoufia University (Data Structures) |
+
+---
+
+## 💼 Experience
+
+**CTO & Senior AI Engineer** @ NexAI · Riyadh, KSA
+Leading the engineering team building enterprise AI products — LLM apps, RAG pipelines, multi-agent platforms.
+
+**AI Engineering Intern** @ Commercial International Bank (CIB)
+Built AI agents, RAG pipelines, and vector search systems for banking operations.
+
+**Top-Rated AI Freelancer** @ Upwork · Global Clients
+Delivering production AI systems for startups and enterprise teams worldwide.
+
+---
+
+## 📫 Work With Me
+
+**Open to:** AI consulting · RAG system builds · Agentic AI architecture · Enterprise AI projects
+
+📧 [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com) · 💼 [Upwork Profile](https://www.upwork.com/freelancers/osamaa305) · 🌐 [Portfolio](https://osama-abo-bakr.vercel.app/)
 
 <div align="center">
-
-**Available for:** Technical Consulting | AI Architecture | Enterprise Solutions | Speaking Engagements
-
-📧 [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/osama-abo-bakr-293614259) | 🌐 [Portfolio](https://osama-abo-bakr.vercel.app/)
-
----
-
-*"Turning cutting-edge AI research into production-ready solutions."*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Osama-Abo-Bakr.Osama-Abo-Bakr)
 
