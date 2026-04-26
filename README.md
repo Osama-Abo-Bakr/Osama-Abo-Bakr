@@ -15,6 +15,16 @@
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 Most AI projects fail not because the model is wrong — but because they never connect to real business data or real workflows.
 
 I specialize in **Agentic AI systems** and **RAG pipelines** that actually integrate into how businesses run: agents that reason and act autonomously, knowledge bases built from *your* data, and automation that eliminates hours of manual work.
@@ -31,17 +41,6 @@ Currently leading the engineering team at **NexAI (Riyadh)** as CTO — designin
 | 📚 **RAG Systems** | Production knowledge bases from docs, PDFs, databases — hybrid search + memory | LlamaIndex · Weaviate · Pinecone |
 | 🏛️ **Enterprise AI Apps** | End-to-end AI platforms with auth, dashboards, real integrations | FastAPI · Next.js · PostgreSQL |
 | 🔄 **Workflow Automation** | Pipelines connecting CRM, Slack, WhatsApp, email — zero manual intervention | n8n · Make · Custom APIs |
-
----
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
