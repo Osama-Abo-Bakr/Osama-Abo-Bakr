@@ -189,6 +189,16 @@ Delivering production AI systems for startups and enterprise teams worldwide.
 
 📧 [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com) · 💼 [Upwork](https://www.upwork.com/freelancers/osamaa305) · 🌐 [Portfolio](https://osama-abo-bakr.vercel.app/)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+  
+
+
 <br/>
 
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
