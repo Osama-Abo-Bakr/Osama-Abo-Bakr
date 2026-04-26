@@ -34,53 +34,14 @@ Currently leading the engineering team at **NexAI (Riyadh)** as CTO — designin
 
 ---
 
-## 🚀 Featured Projects
 
-### 💬 [SaaS RAG Chatbot](https://github.com/Osama-Abo-Bakr/SaaS-RAG-chatbot)
-
-**The problem:** Organizations drowning in documents with no way to query them intelligently.
-
-**What I built:** Production RAG platform that ingests 1,000+ documents into Weaviate, runs hybrid search (dense + sparse), and delivers contextual answers with conversation memory. Full FastAPI backend + Next.js frontend. Delivered in under 2 weeks.
-
-**Architecture decisions:** Chose Weaviate over Pinecone for native hybrid search support. Used Cohere reranking on top of vector retrieval to improve answer relevance. Conversation memory handled via sliding window buffer — balances context length vs. cost.
-
-`FastAPI` `Weaviate` `RAG` `Hybrid Search` `Cohere Reranking` `PostgreSQL` `Next.js` `Docker`
-
----
-
-### 📈 [Stock Market Analysis Agent](https://github.com/Osama-Abo-Bakr/Stock-Agent)
-
-**The problem:** Manually tracking news sentiment + technical indicators across stocks is slow and error-prone.
-
-**What I built:** 4 specialized agents working in sequence — news fetcher → sentiment scorer → technical indicator analyzer → signal generator. Each agent has a single responsibility; outputs chain into the next.
-
-**Architecture decisions:** Chose CrewAI over LangGraph for its role-based agent design — cleaner for sequential pipelines where each agent has a clear persona. GPT-4 for reasoning steps, lighter models for data retrieval to reduce cost.
-
-`CrewAI` `GPT-4` `LangChain` `Technical Analysis` `Sentiment NLP` `Real-time APIs`
-
----
-
-### 🏛️ [InstaMasr](https://github.com/Osama-Abo-Bakr/instamasr)
-
-**The problem:** Egyptian citizens navigating government services face complex forms and no guidance.
-
-**What I built:** Full-stack AI platform for a startup client — AI chat assistant, intelligent form automation, Arabic RTL support, JWT auth, dark/light theming. End-to-end from architecture to production deployment.
-
-**Architecture decisions:** Arabic NLP required careful embedding model selection — tested multiple models for Arabic text quality before settling on final stack. RTL + dark mode handled at Tailwind config level for consistency across all components.
-
-`Next.js` `FastAPI` `LangChain` `JWT` `Arabic NLP` `PostgreSQL` `Tailwind`
-
----
-
-### 📊 [Financial Data Analysis — CrewAI](https://github.com/Osama-Abo-Bakr/financial-data-analysis-crewai)
-
-**The problem:** Financial analysts spend hours manually pulling and cross-referencing data from multiple sources.
-
-**What I built:** Agent team that autonomously extracts insights from structured and unstructured financial sources, summarizes trends, and surfaces actionable signals — no human in the loop.
-
-**Architecture decisions:** Used Llama 3.2 locally to avoid API costs on high-frequency data pulls. Agent roles split by data type (structured vs. unstructured) rather than by task step — better parallelism.
-
-`CrewAI` `Llama 3.2` `Multi-Agent` `Financial NLP` `Local LLM`
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
@@ -188,15 +149,6 @@ Delivering production AI systems for startups and enterprise teams worldwide.
 **Open to:** AI consulting · RAG system builds · Agentic AI architecture · Senior AI engineering roles
 
 📧 [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com) · 💼 [Upwork](https://www.upwork.com/freelancers/osamaa305) · 🌐 [Portfolio](https://osama-abo-bakr.vercel.app/)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-  
 
 
 <br/>
