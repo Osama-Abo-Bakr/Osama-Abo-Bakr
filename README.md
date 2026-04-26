@@ -189,8 +189,8 @@ Delivering production AI systems for startups and enterprise teams worldwide.
 
 📧 [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com) · 💼 [Upwork](https://www.upwork.com/freelancers/osamaa305) · 🌐 [Portfolio](https://osama-abo-bakr.vercel.app/)
 
-<div align="center">
+<br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Osama-Abo-Bakr.Osama-Abo-Bakr)
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
-</div>
+<br/>
