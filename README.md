@@ -4,7 +4,7 @@
 
 ### I build AI Agents and RAG systems that work in production — not just in demos.
 
-*Senior AI Engineer · CTO @ NexAI (Riyadh) · Top-Rated Upwork Freelancer · Kaggle Expert*
+*Senior AI Engineer @ NexAI (Riyadh) · Top-Rated Upwork Freelancer · Kaggle Expert*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-abo-bakr-293614259)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/osamaa305)
@@ -132,7 +132,7 @@ Currently leading the engineering team at **NexAI (Riyadh)** as CTO — designin
 
 ## 💼 Experience
 
-**CTO & Senior AI Engineer** @ NexAI · Riyadh, KSA
+**Senior AI Engineer** @ NexAI · Riyadh, KSA
 Leading the engineering team — system architecture, technical decisions, and end-to-end delivery of enterprise AI products including LLM apps, RAG pipelines, and multi-agent platforms.
 
 **AI Engineering Intern** @ Commercial International Bank (CIB) · Egypt
